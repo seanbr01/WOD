@@ -1,0 +1,16 @@
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\bin\Debug\netcoreapp2.2\NPC_UnitTests.deps.json
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\bin\Debug\netcoreapp2.2\NPC_UnitTests.runtimeconfig.json
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\bin\Debug\netcoreapp2.2\NPC_UnitTests.runtimeconfig.dev.json
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\bin\Debug\netcoreapp2.2\NPC_UnitTests.dll
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\bin\Debug\netcoreapp2.2\NPC_UnitTests.pdb
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\bin\Debug\netcoreapp2.2\WOD_NPC.dll
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\bin\Debug\netcoreapp2.2\WOD_NPC.pdb
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\obj\Debug\netcoreapp2.2\NPC_UnitTests.csprojAssemblyReference.cache
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\obj\Debug\netcoreapp2.2\NPC_UnitTests.AssemblyInfoInputs.cache
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\obj\Debug\netcoreapp2.2\NPC_UnitTests.AssemblyInfo.cs
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\obj\Debug\netcoreapp2.2\NPC_UnitTests.csproj.CopyComplete
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\obj\Debug\netcoreapp2.2\NPC_UnitTests.dll
+C:\Users\seanbr01\source\repos\WOD\NPC_UnitTests\obj\Debug\netcoreapp2.2\NPC_UnitTests.pdb

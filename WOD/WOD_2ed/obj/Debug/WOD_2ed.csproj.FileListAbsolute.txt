@@ -1,0 +1,5 @@
+C:\Users\seanbr01\source\repos\WOD\WOD_2ed\bin\Debug\WOD_2ed.dll
+C:\Users\seanbr01\source\repos\WOD\WOD_2ed\bin\Debug\WOD_2ed.pdb
+C:\Users\seanbr01\source\repos\WOD\WOD_2ed\obj\Debug\WOD_2ed.csprojAssemblyReference.cache
+C:\Users\seanbr01\source\repos\WOD\WOD_2ed\obj\Debug\WOD_2ed.dll
+C:\Users\seanbr01\source\repos\WOD\WOD_2ed\obj\Debug\WOD_2ed.pdb

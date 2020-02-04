@@ -1,0 +1,5 @@
+C:\Users\seanbr01\source\repos\WOD\WOD_NPC\bin\Debug\WOD_NPC.dll
+C:\Users\seanbr01\source\repos\WOD\WOD_NPC\bin\Debug\WOD_NPC.pdb
+C:\Users\seanbr01\source\repos\WOD\WOD_NPC\obj\Debug\WOD_NPC.csprojAssemblyReference.cache
+C:\Users\seanbr01\source\repos\WOD\WOD_NPC\obj\Debug\WOD_NPC.dll
+C:\Users\seanbr01\source\repos\WOD\WOD_NPC\obj\Debug\WOD_NPC.pdb

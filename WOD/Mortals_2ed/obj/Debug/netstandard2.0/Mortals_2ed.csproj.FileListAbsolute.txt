@@ -1,0 +1,11 @@
+C:\Users\seanbr01\source\repos\WOD\Mortals_2ed\bin\Debug\netstandard2.0\Mortals_2ed.deps.json
+C:\Users\seanbr01\source\repos\WOD\Mortals_2ed\bin\Debug\netstandard2.0\Mortals_2ed.dll
+C:\Users\seanbr01\source\repos\WOD\Mortals_2ed\bin\Debug\netstandard2.0\Mortals_2ed.pdb
+C:\Users\seanbr01\source\repos\WOD\Mortals_2ed\bin\Debug\netstandard2.0\WOD_2ed.dll
+C:\Users\seanbr01\source\repos\WOD\Mortals_2ed\bin\Debug\netstandard2.0\WOD_2ed.pdb
+C:\Users\seanbr01\source\repos\WOD\Mortals_2ed\obj\Debug\netstandard2.0\Mortals_2ed.csprojAssemblyReference.cache
+C:\Users\seanbr01\source\repos\WOD\Mortals_2ed\obj\Debug\netstandard2.0\Mortals_2ed.AssemblyInfoInputs.cache
+C:\Users\seanbr01\source\repos\WOD\Mortals_2ed\obj\Debug\netstandard2.0\Mortals_2ed.AssemblyInfo.cs
+C:\Users\seanbr01\source\repos\WOD\Mortals_2ed\obj\Debug\netstandard2.0\Mortals_2ed.csproj.CopyComplete
+C:\Users\seanbr01\source\repos\WOD\Mortals_2ed\obj\Debug\netstandard2.0\Mortals_2ed.dll
+C:\Users\seanbr01\source\repos\WOD\Mortals_2ed\obj\Debug\netstandard2.0\Mortals_2ed.pdb
