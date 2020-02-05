@@ -62,6 +62,25 @@ namespace WOD_2ed_Tests
         }
 
         [DataTestMethod]
+        [DataRow(1, 2, 1)]
+        [DataRow(5, 3, 3)]
+        [DataRow(5, 10, 5)]
+        [DataRow(5, 2, 2)]
+        public void GetGetDefenseShould_ReturnLowestOfDexterityAndWits_WhenCalled(int dexterity, int wits, int expected)
+        {
+            //Arrange
+            var stats = new SUT.BaseStats();
+
+            //Act
+            stats.Dexterity.Value = dexterity;
+            stats.Wits.Value = wits;
+            stats.GetDefense();
+
+            //Assert
+            Assert.AreEqual(expected, stats.Defense);
+        }
+
+        [DataTestMethod]
         [DataRow(1, 1, 2)]
         [DataRow(5, 5, 10)]
         [DataRow(5, 6, 11)]
