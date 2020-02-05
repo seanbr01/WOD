@@ -95,7 +95,7 @@ namespace WOD_2ed
 
         public virtual void GetWillPower()
         {
-            Willpower = Resolve.Value + Computer.Value;
+            Willpower = Resolve.Value + Composure.Value;
         }
 
         public virtual void GetDefense()

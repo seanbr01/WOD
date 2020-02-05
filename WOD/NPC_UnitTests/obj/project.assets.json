@@ -5769,11 +5769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seanbr01\\source\\repos\\WOD\\NPC_UnitTests\\NPC_UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\NPC_UnitTests\\NPC_UnitTests.csproj",
       "projectName": "NPC_UnitTests",
-      "projectPath": "C:\\Users\\seanbr01\\source\\repos\\WOD\\NPC_UnitTests\\NPC_UnitTests.csproj",
+      "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\NPC_UnitTests\\NPC_UnitTests.csproj",
       "packagesPath": "C:\\Users\\seanbr01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\seanbr01\\source\\repos\\WOD\\NPC_UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\NPC_UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5793,8 +5793,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_NPC\\WOD_NPC.csproj": {
-              "projectPath": "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_NPC\\WOD_NPC.csproj"
+            "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_NPC\\WOD_NPC.csproj": {
+              "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_NPC\\WOD_NPC.csproj"
             }
           }
         }

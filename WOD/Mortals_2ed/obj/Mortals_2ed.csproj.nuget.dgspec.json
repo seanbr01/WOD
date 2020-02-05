@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seanbr01\\source\\repos\\WOD\\Mortals_2ed\\Mortals_2ed.csproj": {}
+    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\Mortals_2ed\\Mortals_2ed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seanbr01\\source\\repos\\WOD\\Mortals_2ed\\Mortals_2ed.csproj": {
+    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\Mortals_2ed\\Mortals_2ed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seanbr01\\source\\repos\\WOD\\Mortals_2ed\\Mortals_2ed.csproj",
+        "projectUniqueName": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\Mortals_2ed\\Mortals_2ed.csproj",
         "projectName": "Mortals_2ed",
-        "projectPath": "C:\\Users\\seanbr01\\source\\repos\\WOD\\Mortals_2ed\\Mortals_2ed.csproj",
+        "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\Mortals_2ed\\Mortals_2ed.csproj",
         "packagesPath": "C:\\Users\\seanbr01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seanbr01\\source\\repos\\WOD\\Mortals_2ed\\obj\\",
+        "outputPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\Mortals_2ed\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed\\WOD_2ed.csproj": {
-                "projectPath": "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed\\WOD_2ed.csproj"
+              "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed\\WOD_2ed.csproj": {
+                "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed\\WOD_2ed.csproj"
               }
             }
           }
@@ -67,12 +67,12 @@
         }
       }
     },
-    "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed\\WOD_2ed.csproj": {
+    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed\\WOD_2ed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed\\WOD_2ed.csproj",
+        "projectUniqueName": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed\\WOD_2ed.csproj",
         "projectName": "WOD_2ed",
-        "projectPath": "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed\\WOD_2ed.csproj"
+        "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed\\WOD_2ed.csproj"
       },
       "frameworks": {
         "net461": {}

@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed_Tests\\WOD_2ed_Tests.csproj": {}
+    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed_Tests\\WOD_2ed_Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed\\WOD_2ed.csproj": {
+    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed\\WOD_2ed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed\\WOD_2ed.csproj",
+        "projectUniqueName": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed\\WOD_2ed.csproj",
         "projectName": "WOD_2ed",
-        "projectPath": "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed\\WOD_2ed.csproj"
+        "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed\\WOD_2ed.csproj"
       },
       "frameworks": {
         "net461": {}
       }
     },
-    "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed_Tests\\WOD_2ed_Tests.csproj": {
+    "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed_Tests\\WOD_2ed_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed_Tests\\WOD_2ed_Tests.csproj",
+        "projectUniqueName": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed_Tests\\WOD_2ed_Tests.csproj",
         "projectName": "WOD_2ed_Tests",
-        "projectPath": "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed_Tests\\WOD_2ed_Tests.csproj",
+        "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed_Tests\\WOD_2ed_Tests.csproj",
         "packagesPath": "C:\\Users\\seanbr01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed_Tests\\obj\\",
+        "outputPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed_Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,8 +42,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed\\WOD_2ed.csproj": {
-                "projectPath": "C:\\Users\\seanbr01\\source\\repos\\WOD\\WOD_2ed\\WOD_2ed.csproj"
+              "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed\\WOD_2ed.csproj": {
+                "projectPath": "C:\\Users\\seanbr01\\Documents\\GitHub\\repos\\WOD\\WOD\\WOD_2ed\\WOD_2ed.csproj"
               }
             }
           }

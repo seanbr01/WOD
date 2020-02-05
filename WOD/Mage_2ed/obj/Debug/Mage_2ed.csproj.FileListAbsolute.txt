@@ -6,3 +6,11 @@ C:\Users\seanbr01\source\repos\WOD\Mage_2ed\bin\Debug\WOD_2ed.pdb
 C:\Users\seanbr01\source\repos\WOD\Mage_2ed\obj\Debug\Mage_2ed.csproj.CopyComplete
 C:\Users\seanbr01\source\repos\WOD\Mage_2ed\obj\Debug\Mage_2ed.dll
 C:\Users\seanbr01\source\repos\WOD\Mage_2ed\obj\Debug\Mage_2ed.pdb
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\Mage_2ed\bin\Debug\Mage_2ed.dll
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\Mage_2ed\bin\Debug\Mage_2ed.pdb
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\Mage_2ed\bin\Debug\WOD_2ed.dll
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\Mage_2ed\bin\Debug\WOD_2ed.pdb
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\Mage_2ed\obj\Debug\Mage_2ed.csprojAssemblyReference.cache
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\Mage_2ed\obj\Debug\Mage_2ed.csproj.CopyComplete
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\Mage_2ed\obj\Debug\Mage_2ed.dll
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\Mage_2ed\obj\Debug\Mage_2ed.pdb
