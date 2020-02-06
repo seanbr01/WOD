@@ -5,7 +5,7 @@ using WOD_2ed;
 
 namespace Mage_2ed
 {
-    public class MageSkills : Skills_2ed
+    public class MageSkills : Skill
     {
         private bool isRoteSkill = false;
 

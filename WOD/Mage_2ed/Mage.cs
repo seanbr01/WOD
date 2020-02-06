@@ -5,7 +5,7 @@ using WOD_2ed;
 
 namespace Mage_2ed
 {
-    public class Mage : BaseStats_2ed
+    public class Mage : BaseStats
     {
         public string ShadowName { get; set; }
 
@@ -137,9 +137,7 @@ namespace Mage_2ed
         
         public Mage()
         {
-            MageSkills mageSkills_2Ed = new MageSkills();
-            MageSkills = mageSkills_2Ed.CreateMageSkills();
-            Attributes = Attribute_2ed.CreateAttributes();
+            
         }
     }
 }
