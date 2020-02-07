@@ -1,6 +1,0 @@
-C:\Users\seanbr01\source\repos\WOD\WOD\bin\Debug\WOD.exe.config
-C:\Users\seanbr01\source\repos\WOD\WOD\bin\Debug\WOD.exe
-C:\Users\seanbr01\source\repos\WOD\WOD\bin\Debug\WOD.pdb
-C:\Users\seanbr01\source\repos\WOD\WOD\obj\Debug\WOD.csprojAssemblyReference.cache
-C:\Users\seanbr01\source\repos\WOD\WOD\obj\Debug\WOD.exe
-C:\Users\seanbr01\source\repos\WOD\WOD\obj\Debug\WOD.pdb
