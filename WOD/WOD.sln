@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOD", "WOD\WOD.csproj", "{E167A7D4-1ECD-4D6C-9785-ED93E3E365AD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestApp", "ConsoleTestApp\ConsoleTestApp.csproj", "{8AF83990-027D-4428-9445-CDC228894506}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOD_2ed", "WOD_2ed\WOD_2ed.csproj", "{33A1D198-A541-4023-BBA6-FA8480C6E130}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mage_2ed", "Mage_2ed\Mage_2ed.csproj", "{C28E252B-5F47-4FF7-A765-236991AC5DF0}"
@@ -19,20 +15,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mortals_2ed", "Mortals_2ed\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOD_Tests", "WOD_Tests\WOD_Tests.csproj", "{4EE34FC0-52D9-4A60-8A6F-8473435845A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOD_CharacterSheet_2nd", "WOD_CharacterSheet_2nd\WOD_CharacterSheet_2nd.csproj", "{48E1FD57-1D89-47AE-A1A2-2BEC5745F776}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E167A7D4-1ECD-4D6C-9785-ED93E3E365AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E167A7D4-1ECD-4D6C-9785-ED93E3E365AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E167A7D4-1ECD-4D6C-9785-ED93E3E365AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E167A7D4-1ECD-4D6C-9785-ED93E3E365AD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8AF83990-027D-4428-9445-CDC228894506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8AF83990-027D-4428-9445-CDC228894506}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8AF83990-027D-4428-9445-CDC228894506}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8AF83990-027D-4428-9445-CDC228894506}.Release|Any CPU.Build.0 = Release|Any CPU
 		{33A1D198-A541-4023-BBA6-FA8480C6E130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{33A1D198-A541-4023-BBA6-FA8480C6E130}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33A1D198-A541-4023-BBA6-FA8480C6E130}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -57,6 +47,10 @@ Global
 		{4EE34FC0-52D9-4A60-8A6F-8473435845A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EE34FC0-52D9-4A60-8A6F-8473435845A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EE34FC0-52D9-4A60-8A6F-8473435845A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E1FD57-1D89-47AE-A1A2-2BEC5745F776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E1FD57-1D89-47AE-A1A2-2BEC5745F776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E1FD57-1D89-47AE-A1A2-2BEC5745F776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E1FD57-1D89-47AE-A1A2-2BEC5745F776}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

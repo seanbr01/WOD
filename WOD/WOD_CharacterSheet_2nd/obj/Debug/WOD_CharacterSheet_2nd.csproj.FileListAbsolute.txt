@@ -1,0 +1,14 @@
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\bin\Debug\WOD_CharacterSheet_2nd.exe.config
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\bin\Debug\WOD_CharacterSheet_2nd.exe
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\bin\Debug\WOD_CharacterSheet_2nd.pdb
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\obj\Debug\WOD_CharacterSheet_2nd.csprojAssemblyReference.cache
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\obj\Debug\MainWindow.g.cs
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\obj\Debug\App.g.cs
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\obj\Debug\WOD_CharacterSheet_2nd_MarkupCompile.cache
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\obj\Debug\WOD_CharacterSheet_2nd_MarkupCompile.lref
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\obj\Debug\MainWindow.baml
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\obj\Debug\WOD_CharacterSheet_2nd.g.resources
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\obj\Debug\WOD_CharacterSheet_2nd.Properties.Resources.resources
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\obj\Debug\WOD_CharacterSheet_2nd.csproj.GenerateResource.cache
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\obj\Debug\WOD_CharacterSheet_2nd.exe
+C:\Users\seanbr01\Documents\GitHub\repos\WOD\WOD\WOD_CharacterSheet_2nd\obj\Debug\WOD_CharacterSheet_2nd.pdb
